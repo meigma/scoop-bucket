@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/meigma/blobber/releases/download/v1.0.0/blobber_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/meigma/blobber/releases/download/v1.1.0/blobber_1.1.0_windows_amd64.zip",
             "bin": [
                 "blobber.exe"
             ],
-            "hash": "78635e2d3f6f567f6a4adc45e30af3b865fc8c4e347abd94b88a59bc17376602"
+            "hash": "938bc9518a9b5351060b0f4ad99e6328291f67c677086eb30707fda19bdd2536"
         }
     },
     "homepage": "https://github.com/meigma/blobber",
