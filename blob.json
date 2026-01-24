@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/meigma/blob-cli/releases/download/v1.0.0/blob_1.0.0_windows_amd64.zip",
+            "bin": [
+                "blob.exe"
+            ],
+            "hash": "1c6b71634ff925275d62e8580211e24c263fa2da754e20d79beb01d099ee0c9c"
+        }
+    },
+    "homepage": "https://github.com/meigma/blob-cli",
+    "license": "MIT",
+    "description": "A CLI for working with blob archives in OCI registries"
+}
