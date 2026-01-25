@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/meigma/blob-cli/releases/download/v1.0.0/blob_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/meigma/blob-cli/releases/download/v1.1.0/blob_1.1.0_windows_amd64.zip",
             "bin": [
                 "blob.exe"
             ],
-            "hash": "1c6b71634ff925275d62e8580211e24c263fa2da754e20d79beb01d099ee0c9c"
+            "hash": "6b0d693260d5d2cc896f0da969b05370b1c530ba8442206a03ff0932b7fe49ca"
         }
     },
     "homepage": "https://github.com/meigma/blob-cli",
