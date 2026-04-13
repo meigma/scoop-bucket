@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/meigma/whzbox/releases/download/v1.0.0/whzbox_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/meigma/whzbox/releases/download/v1.0.3/whzbox_1.0.3_windows_amd64.zip",
             "bin": [
                 "whzbox.exe"
             ],
-            "hash": "0906200d288ffda08aac690edfcd6797137a97f0b91d6464ef0f6fcaefda0712"
+            "hash": "eeae628802efdbc0c3b1643683b14dd2abde0f0be0fc795cd76c127d549525ee"
         }
     },
     "homepage": "https://github.com/meigma/whzbox",
