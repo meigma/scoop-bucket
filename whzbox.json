@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/meigma/whzbox/releases/download/v1.0.0/whzbox_1.0.0_windows_amd64.zip",
+            "bin": [
+                "whzbox.exe"
+            ],
+            "hash": "0906200d288ffda08aac690edfcd6797137a97f0b91d6464ef0f6fcaefda0712"
+        }
+    },
+    "homepage": "https://github.com/meigma/whzbox",
+    "license": "MIT OR Apache-2.0",
+    "description": "A small Go CLI for managing Whizlabs cloud sandboxes"
+}
