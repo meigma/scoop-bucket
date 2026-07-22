@@ -1,15 +1,15 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "description": "Crossplane v2 composition function that renders Kubernetes resources from CUE modules",
     "homepage": "https://github.com/meigma/crossplane-cuefn",
     "license": "Apache-2.0 OR MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/meigma/crossplane-cuefn/releases/download/v0.1.8/cuefn_0.1.8_windows_amd64.zip",
+            "url": "https://github.com/meigma/crossplane-cuefn/releases/download/v0.1.9/cuefn_0.1.9_windows_amd64.zip",
             "bin": [
                 "cuefn.exe"
             ],
-            "hash": "767662ede84b240edd04d367f870e990d1d5265ef023950ebf96855786b24ec4"
+            "hash": "6fe93ac8ca99aa6fc9ec24711cad2934d9d72d873f59301683db1df7389b2094"
         }
     }
 }
