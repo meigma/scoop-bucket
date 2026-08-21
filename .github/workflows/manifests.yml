@@ -1,0 +1,14 @@
+name: Manifest CI
+
+on:
+  pull_request:
+    paths:
+      - '*.json'
+
+permissions: {}
+
+jobs:
+  manifests:
+    permissions:
+      contents: read
+    uses: meigma/release/.github/workflows/scoop-bucket-ci.yml@38fde4f8e33c9270a80a88fd0dc015821c50ccd9
