@@ -1,0 +1,22 @@
+{
+    "version": "0.1.11",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/meigma/release/releases/download/v0.1.11/release-cli_0.1.11_windows_amd64.zip",
+            "bin": [
+                "release-cli.exe"
+            ],
+            "hash": "f4baf1d943575f2f247a2ab5f5e29e1f82748f6db2c16f97e64c7e45954a85fd"
+        },
+        "arm64": {
+            "url": "https://github.com/meigma/release/releases/download/v0.1.11/release-cli_0.1.11_windows_arm64.zip",
+            "bin": [
+                "release-cli.exe"
+            ],
+            "hash": "6099c77a324c8f3d1abd3a0a645f413e762f80fb64f89a5255198097b39f1287"
+        }
+    },
+    "homepage": "https://github.com/meigma/release",
+    "license": "Proprietary",
+    "description": "Release automation for Meigma projects"
+}
